@@ -10,17 +10,21 @@
 
 1 πλακέτα  BBC Micro:bit V2 Board
 
+1 Klimate Environment Monitoring Board for BBC micro:bit
+
 αισθητήρες υγρασίας εδάφους , θερμοκρασίας 
 
 1 φωτοαντίσταση
 
 1 dc motor
 
-4*1.2V επαναφιρτιζόμενες μπαταρίες 
+4*1.2V επαναφoρτιζόμενες μπαταρίες 
 
 1 Φωτοβολταϊκή Κυψέλη 2W 136x110mm
 
-1 Charging Module with Step Up Boost Converter
+1 solar lithium battery charger
+
+2 ESP 8266 WIFI MODULE
 
 υλικά για την κατασκευή της μακέτας
 
